@@ -1,0 +1,23 @@
+{
+  "name": "mini-react",
+  "version": "1.0.0",
+  "description": "mini react",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdliyushen/mini-react.git"
+  },
+  "author": "liyushen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xdliyushen/mini-react/issues"
+  },
+  "homepage": "https://github.com/xdliyushen/mini-react#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
